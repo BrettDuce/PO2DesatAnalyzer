@@ -1,4 +1,17 @@
-![Po₂DesatAnalyzer Logo](docs/logo.png)
+<table width="100%">
+  <tr>
+    <td align="left" width="20%">
+      <img src="docs/sleepnerd_logo.png" alt="SleepNerd Logo" width="120"/>
+    </td>
+    <td align="center" width="60%">
+      <h1>Po<sub>2</sub> Desaturation Analyzer</h1>
+      <em>From signal to insight</em>
+    </td>
+    <td align="right" width="20%">
+      <img src="docs/partner_logo.png" alt="logo" width="120"/>
+    </td>
+  </tr>
+</table>
 
 # PO2DesatAnalyzer
 # 🩸 Po₂DesatAnalyzer  A standalone, batch-ready tool for physiological analysis of oxygen desaturations using SpO₂-to-pO₂ conversion and ABOSA-style event detection.
