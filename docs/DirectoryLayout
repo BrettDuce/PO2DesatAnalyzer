@@ -1,0 +1,21 @@
+Po2DesatAnalyzer/
+├── src/
+│   ├── analyzer.py            # Main batch processor
+│   ├── abosa_logic.py         # Desaturation + recovery detection (ABOSA-style)
+│   ├── po2_converter.py       # Hill/Severinghaus conversion logic
+│   └── event_metrics.py       # ODI, DesSev, area, slope, t90, etc.
+├── config/
+│   └── config.yaml            # Thresholds, P50, min event size, etc.
+├── launchers/
+│   ├── run_batch.py           # CLI batch runner
+│   └── run_batch.bat          # Double-clickable launcher
+├── results/
+│   └── po2_desat_stats.csv    # Output cumulative results
+├── data/
+│   └── sample.edf             # Dummy EDF for testing (mock or stripped)
+├── tests/
+│   └── test_logic.py          # Basic unit test for signal analysis
+├── README.md                  # Full usage + theory + options
+├── CHANGELOG.md               # What’s new across versions
+├── version.txt                # v0.1.0-initial
+└── LICENSE                    # MIT or custom (your call)
