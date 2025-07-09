@@ -1,13 +1,17 @@
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
-  <img src="docs/sleepnerd_logo.png" alt="SleepNerd Logo" width="100"/>
-
-  <div>
-    <h2 style="margin-bottom: 0;">Po<sub>2</sub> Desaturation Analyzer</h2>
-    <em>From signal to insight</em>
-  </div>
-
-  <img src="docs/partner_logo.png" alt="Partner Logo" width="100"/>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="20%">
+      <img src="docs/sleepnerd_logo.png" alt="SleepNerd Logo" width="120"/>
+    </td>
+    <td align="center" width="60%">
+      <h1>PO<sub>2</sub> Desaturation Analyzer</h1>
+      <em>From signal to insight</em>
+    </td>
+    <td align="right" width="20%">
+      <img src="docs/logo.png" alt="Logo" width="120"/>
+    </td>
+  </tr>
+</table>
 
 
 
