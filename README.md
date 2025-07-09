@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td align="left" width="120%">
+    <td align="left" width="20%">
       <img src="docs/sleepnerd_logo.png" alt="SleepNerd Logo" width="120"/>
     </td>
     <td align="center" width="60%">
