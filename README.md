@@ -31,7 +31,7 @@
 - Python 3.9+
 - `numpy`, `scipy`, `pandas`, `matplotlib`, `pyedflib`
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/BrettDuce/Po2DesatAnalyzer.git
